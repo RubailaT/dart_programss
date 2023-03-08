@@ -8,12 +8,12 @@ void main(){
   countries.insert(4, "QATAR");
   countries.insert(5, "KUWAIT");
   print(countries);
-  print("Remove BHUTAN from the list and remove elements within in the range of index 5-8 : ");
+  print("Remove BHUTAN from the list and remove elements within in the range of index 4-7 : ");
   countries.removeLast();
   countries.removeRange(4,7 );
   print(countries);
-  print("Replacing the elements from index 3rd to index 5 : ");
-  countries.replaceRange(3,6,["PARIS","TURKEY"]);
+  print("Replacing the elements from index 2 to index 5: ");
+  countries.replaceRange(2,5,["PARIS","TURKEY"]);
   print(countries);
 
 
