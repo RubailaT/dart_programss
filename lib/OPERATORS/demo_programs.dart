@@ -42,8 +42,8 @@ results=c/d;
   print("s1%=s2 is ${s1%=s2}");
 
   print("Example of Relational Operator:")  ;
-  var c=30;
-  var d=20;
+  var c=20;
+  var d=40;
   var result=c>d;
   print("c>d is $result")  ;
   var res1=c<d;
@@ -55,7 +55,7 @@ results=c/d;
   var res4=c<=d;
 print("c<=d is $res4") ;
 var res5=c>=d;
-print("c>=d is $res4")    ;
+print("c>=d is $res5")    ;
 var res6=c!=d;
 print("c!=d is "+res6.toString()) ;
 
