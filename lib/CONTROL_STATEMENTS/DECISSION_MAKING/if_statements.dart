@@ -65,6 +65,16 @@ switch(day) {
     dayName="INVALID DAY";
 
 }print(dayName);
+//task
+ int a=9;
+
+ if(a>=10) {
+  print("a is a digit:");
+ }
+ else{
+   print("a is a string");
+ }
+
 }
 
 
