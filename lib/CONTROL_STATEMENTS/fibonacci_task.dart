@@ -7,7 +7,7 @@ import 'dart:io';
 //   int c;
 //   int limit;
 //   print("Enter the limit : ");
-//   //int fib=a+b;
+//
 //   limit=int.parse(stdin.readLineSync()!);
 //    for(int i=1;i<=limit;i++)
 //      {
