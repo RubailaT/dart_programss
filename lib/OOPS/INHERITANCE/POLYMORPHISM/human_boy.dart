@@ -1,6 +1,6 @@
 void main(){
   // Boy objboy=new Boy();
-  // objboy.by();
+  // objboy.eat();
   Human objhum=new Human();
   objhum.eat();
 }
@@ -10,7 +10,7 @@ class Human{
   }
 }
 class Boy{
-  void by(){
+  void eat(){
     print("Boys can eat");
   }
 }
