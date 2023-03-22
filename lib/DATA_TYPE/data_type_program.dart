@@ -13,7 +13,7 @@ void main(){
   countries.removeRange(4,7 );
   print(countries);
   print("Replacing the elements from index 2 to index 5: ");
-  countries.replaceRange(2,5,["PARIS","TURKEY"]);
+  countries.replaceRange(2,5,["PARIS","TURKEY","LONDON"]);
   print(countries);
 
 

@@ -10,7 +10,7 @@ void main() {
     print(count);
 
   }
-  while(count < 10);
+  while(count <10);
   {
     print("4 is out of while");
   }
